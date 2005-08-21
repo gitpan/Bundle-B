@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/load.t
+lib/Bundle/B.pm
+META.yml                                 Module meta-data (added by MakeMaker)

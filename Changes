@@ -1,0 +1,6 @@
+Revision history for Perl extension Bundle::B.
+
+0.01  Sun Aug 21 04:48:56 2005
+	- original version; created by h2xs 1.23 with options
+		-X -n Bundle::B
+
